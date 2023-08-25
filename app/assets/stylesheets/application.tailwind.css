@@ -11,3 +11,7 @@
 }
 
 */
+
+html {
+  @apply font-sans antialiased bg-gray-50 text-black 
+}
